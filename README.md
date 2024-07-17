@@ -1,4 +1,44 @@
-# Royal-Vintage-Landing-Page
-This is my tailwind framework &amp; Figma project named Royal Vintage which is a Landing Page for selling a Royal Vintage Car.
+# Royal Vintage Landing Page
 
-This is my First Figma & Tailwind CSS Framework project. In this project I have developed a Responsive landing Page for selling a Royal Vintage Car Using HTML & Tailwind CSS & Java Script. I had formed its web deign first before developing it in Figma. The logo in this page which I hane used that is aso deigned by me using Canva.
+## Description
+
+Royal Vintage Landing Page is a project developed using Figma for design and Tailwind CSS Framework for styling. It serves as a landing page template for selling a royal vintage car.
+
+## Features
+
+- **Responsive Design:** Ensures compatibility across various devices.
+- **Elegant Styling:** Utilizes Tailwind CSS for a modern and visually appealing look.
+- **Sections Included:** Homepage, About Us, Car Models, Contact Form.
+
+## Preview
+
+![Royal Vintage Landing Page Preview](./assets/img/sc.png)
+
+## Technologies Used
+
+- Figma
+- Tailwind CSS
+
+## Usage
+
+1. **Clone the repository:**
+
+   ```
+   git clone https://github.com/piyush26102/royal-vintage-landing-page.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```
+   cd royal-vintage-landing-page
+   ```
+
+3. **Open the HTML file in your browser:**
+
+   ```
+   Open index.html
+   ```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
